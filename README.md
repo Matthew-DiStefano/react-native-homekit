@@ -4,7 +4,6 @@
 <img src="https://i.imgur.com/JK2qolE.jpg" alt="Homekit">
 
 
-
 ## Installation
 
 ```sh
